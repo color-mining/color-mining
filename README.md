@@ -1,0 +1,2 @@
+# color-mining
+Main Project
